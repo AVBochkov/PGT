@@ -1,6 +1,6 @@
 # Progressive Growth Transformers (PGT) series, designed to explore how linguistic and reasoning capabilities emerge as a function of model depth.
 
-This model ('abs-bvv-6') was not trained monolithically. Instead, it was "grown" constructively, one layer at a time, upon a foundation of frozen, non-semantic visual embeddings ('abs-bvv-1'-> 'abs-bvv-2' -> 'abs-bvv-3' -> 'abs-bvv-4' -> 'abs-bvv-5' -> 'abs-bvv-6')
+For example a model ('abs-bvv-6') was not trained monolithically. Instead, it was "grown" constructively, one layer at a time, upon a foundation of frozen, non-semantic visual embeddings ('abs-bvv-1'-> 'abs-bvv-2' -> 'abs-bvv-3' -> 'abs-bvv-4' -> 'abs-bvv-5' -> 'abs-bvv-6')
 
 The core idea is to demonstrate an alternative, more modular and resource-efficient paradigm for building LLMs. The PGT series shows that:
 
